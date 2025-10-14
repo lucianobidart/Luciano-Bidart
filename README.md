@@ -62,4 +62,4 @@ Busco oportunidades para **aportar mis conocimientos como Desarrollador Web Juni
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=120&section=footer"/>
 </p>
 
-⭐ *"El aprendizaje constante es la clave para transformar las ideas en resultados."*
+
