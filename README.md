@@ -1,65 +1,81 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6A5ACD&height=200&section=header&text=Luciano%20Bidart%20👨‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
+# 👋 Hola, soy Luciano Bidart
 
-<h3 align="center">💻 Desarrollador Web Junior | Programador en JavaScript | Apasionado por el aprendizaje continuo</h3>
+💻 Full Stack Developer Junior  
+📍 Uruguay  
 
 ---
 
-### 👋 ¡Hola! Soy Luciano Bidart
+## 🧑‍💻 Sobre mí
 
-Soy un **Desarrollador Web Junior** enfocado en crear soluciones digitales modernas y funcionales.  
-Actualmente me encuentro aprendiendo y mejorando mis habilidades en **programación web**, tanto **frontend** como **backend**.  
-Además, cuento con formación en **Comercio Exterior y Logística**, lo que me aporta una visión estratégica, organizada y orientada a resultados.
+Soy **Full Stack Developer Junior** con experiencia práctica desarrollando aplicaciones web utilizando **JavaScript, Node.js, Express y MySQL**.  
+Trabajo con **HTML, CSS y JavaScript (ES6+)**, aplicando diseño responsive con **Tailwind CSS y Bootstrap**.
 
----
+Tengo experiencia en la creación de **APIs REST**, aplicación de buenas prácticas de código, control de versiones con **Git/GitHub** y principios de **Programación Orientada a Objetos**.
 
-## 🚀 Tecnologías y herramientas
-
-<p align="center">
-  <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <br/>
-  <!-- Herramientas -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+Busco mi **primera oportunidad profesional en tecnología**, donde pueda aportar soluciones funcionales, seguir aprendiendo y crecer dentro de un equipo de desarrollo.
 
 ---
 
-## 🌱 Actualmente aprendiendo
-- Desarrollo **Full Stack**
-- **Node.js** y bases de datos relacionales
-- Buenas prácticas de **backend** y optimización de código
-- Diseño **responsive** y experiencia de usuario (UX/UI)
+## 🛠️ Tecnologías
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Tailwind CSS
+- Bootstrap
+- Diseño Responsive
+
+### Backend
+- Node.js
+- Express.js
+- APIs REST
+- Java (POO)
+
+### Base de datos
+- MySQL
+- SQL básico
+
+### Herramientas
+- Git & GitHub
+- Postman
+- VS Code
 
 ---
 
-## 🧩 Proyectos destacados
-🔹 **Sistema de gestión de usuarios (Java)** — Proyecto con POO, excepciones y Maven.  
-🔹 **Página web personal (HTML, CSS, JS)** — Landing page responsive y moderna.  
-🔹 **Mini apps de práctica (JS)** — Ejercicios con funciones, DOM y eventos.  
+## 📌 Proyectos Destacados
+
+🔹 **Sistema de Gestión de Usuarios – Full Stack**  
+API REST desarrollada con Node.js y Express.  
+Incluye CRUD de usuarios, conexión a MySQL y estructura MVC.
+
+🔹 **Dashboard Analytics Full Stack**  
+Dashboard con autenticación, métricas y gráficos interactivos.  
+Frontend en React + Backend con Node.js y MySQL.
+
+🔹 **Buscador de Imágenes de la NASA**  
+Aplicación web que consume una API pública para buscar y visualizar imágenes espaciales.
 
 ---
 
-## 🌍 Sobre mí
-Soy una persona **proactiva, responsable y curiosa**, con muchas ganas de seguir creciendo en el mundo digital.  
-Busco oportunidades para **aportar mis conocimientos como Desarrollador Web Junior** y seguir aprendiendo de proyectos reales.
+## 🎓 Formación
 
-📫 **Contáctame:**  
-- 📧 [bidartluciano02@gmail.com](mailto:bidartluciano02@gmail.com)  
-- 💼 [LinkedIn](https://goo.su/IVxuSJ)
+- **IBEC** – Comercio Internacional y Logística  
+- **JAP – Ceibal** – Desarrollo Web y Programación  
+- **UTEC** – Bases de Datos (MySQL, SQL Server)  
+- **UTEC** – Fundamentos de Ciberseguridad
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=120&section=footer"/>
-</p>
+## 📫 Contacto
+
+- 📧 Email: BidartLuciano02@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/luciano-bidart-31459326b  
+- 🧑‍💻 GitHub: https://github.com/lucianobidart
+
+---
+
+⭐ Abierto a aprender, mejorar y asumir nuevos desafíos.
+
 
 
